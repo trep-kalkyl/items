@@ -1,0 +1,3 @@
+# ELINSTALLATION
+
+Mappstruktur för elkalkyl.
