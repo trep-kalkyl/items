@@ -1,0 +1,51 @@
+{
+  "itm_name": "FXQJ 4X35/16 I MARK",
+  "itm_description": "FXQJ 4X35/16 I MARK, KABELGRAV ELLER ÖPPEN KANAL INKLUSIVE MARKERINGSBAND.",
+  "itm_image": "images/images_articles/Fkkj4.jpg",
+  "itm_keywords": [
+    "KABEL",
+    "CPR",
+    "FKKJ",
+    "SVART",
+    "HALOGENFRI",
+    "N1XCZ1-R"
+  ],
+  "itm_quantity": 1,
+  "itm_comments": [],
+  "itm_tasks": [
+    {
+      "tsk_name": "KABELMARKERINGSBAND 170mm",
+      "tsk_work_type": "SV-ATL",
+      "tsk_work_code": "",
+      "tsk_work_description": "",
+      "tsk_construction_stage": "Kabelförläggning i platta/mark",
+      "tsk_quantity_unit": "m",
+      "tsk_total_quantity": 1.0,
+      "tsk_work_task_duration": 0.0,
+      "tsk_material_number": "0661019",
+      "tsk_material_name": "KABELSKYDD SPN 170/50M GUL",
+      "tsk_material_type": "SV-ENR",
+      "tsk_material_amount": 1.0,
+      "tsk_material_user_price": 19.5,
+      "tsk_resource_type": "Electrician",
+      "tsk_comments": []
+    },
+    {
+      "tsk_name": "FXQJ 4X35/16 I MARK",
+      "tsk_work_type": "SV-ATL",
+      "tsk_work_code": "207518139",
+      "tsk_work_description": "LSP KABLAR ÖPPENKANAL 25-35 KVMM",
+      "tsk_construction_stage": "Kabelförläggning i platta/mark",
+      "tsk_quantity_unit": "m",
+      "tsk_total_quantity": 1.0,
+      "tsk_work_task_duration": 0.05,
+      "tsk_material_number": "0058920",
+      "tsk_material_name": "FXQJ-EMC PURE 4X35 FR/16",
+      "tsk_material_type": "SV-ENR",
+      "tsk_material_amount": 1.0,
+      "tsk_material_user_price": 655.0,
+      "tsk_resource_type": "Electrician",
+      "tsk_comments": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "itm_name": "FXQJ 4X240/120 I KABELSKYDDSRÖR",
+  "itm_description": "FXQJ 4X240/120 I KABELSKYDDSRÖR ELLER I BLOCKERAD KANAL.",
+  "itm_image": "images/images_articles/Fkkj4.jpg",
+  "itm_keywords": [
+    "CPR",
+    "FKKJ",
+    "SVART",
+    "HALOGENFRI",
+    "N1XCZ1-R"
+  ],
+  "itm_quantity": 1,
+  "itm_comments": [],
+  "itm_tasks": [
+    {
+      "tsk_name": "TILLÄGG KOPPARKABEL 95 TOM 300 mm²",
+      "tsk_work_type": "SV-ATL",
+      "tsk_work_code": "207518201",
+      "tsk_work_description": "TILLÄGG KOPPARKABEL 95 TOM 300 mm²",
+      "tsk_construction_stage": "Infälld kabelförläggning",
+      "tsk_quantity_unit": "m",
+      "tsk_total_quantity": 1.0,
+      "tsk_work_task_duration": 0.02,
+      "tsk_material_number": "",
+      "tsk_material_name": "",
+      "tsk_material_type": "SV-ENR",
+      "tsk_material_amount": 1.0,
+      "tsk_material_user_price": 0.0,
+      "tsk_resource_type": "Electrician",
+      "tsk_comments": []
+    },
+    {
+      "tsk_name": "FXQJ 4X240/120 I KABELSKYDDSRÖR",
+      "tsk_work_type": "SV-ATL",
+      "tsk_work_code": "207518176",
+      "tsk_work_description": "LSP KABLAR BÄRLINA 240-300 KVMM",
+      "tsk_construction_stage": "Infälld kabelförläggning",
+      "tsk_quantity_unit": "m",
+      "tsk_total_quantity": 1.0,
+      "tsk_work_task_duration": 0.27,
+      "tsk_material_number": "0058990",
+      "tsk_material_name": "FXQJ-EMC PURE 4X240 FV/120",
+      "tsk_material_type": "SV-ENR",
+      "tsk_material_amount": 1.0,
+      "tsk_material_user_price": 3915.0,
+      "tsk_resource_type": "Electrician",
+      "tsk_comments": []
+    }
+  ]
+}

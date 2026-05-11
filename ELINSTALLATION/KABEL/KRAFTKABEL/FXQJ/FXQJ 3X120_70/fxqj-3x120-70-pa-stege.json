@@ -1,0 +1,68 @@
+{
+  "itm_name": "FXQJ 3X120/70 PÅ STEGE",
+  "itm_description": "FXQJ 3x120/70 på vertikal eller horisontell kabelstege eller kabelhylla inklusive buntband.",
+  "itm_image": "images/images_articles/Fkkj4.jpg",
+  "itm_keywords": [
+    "KABEL",
+    "CPR",
+    "FKKJ",
+    "SVART",
+    "HALOGENFRI",
+    "N1XCZ1-R"
+  ],
+  "itm_quantity": 1,
+  "itm_comments": [],
+  "itm_tasks": [
+    {
+      "tsk_name": "BUNTBAND 300 mm",
+      "tsk_work_type": "SV-ATL",
+      "tsk_work_code": "",
+      "tsk_work_description": "",
+      "tsk_construction_stage": "Utanpåliggande kabelförläggning",
+      "tsk_quantity_unit": "st",
+      "tsk_total_quantity": 3.0,
+      "tsk_work_task_duration": 0.0,
+      "tsk_material_number": "1516084",
+      "tsk_material_name": "BUNTBAND T120I 100 ST",
+      "tsk_material_type": "SV-ENR",
+      "tsk_material_amount": 0.01,
+      "tsk_material_user_price": 328.0,
+      "tsk_resource_type": "Electrician",
+      "tsk_comments": []
+    },
+    {
+      "tsk_name": "TILLÄGG KOPPARKABEL 95 TOM 300 mm²",
+      "tsk_work_type": "SV-ATL",
+      "tsk_work_code": "207518201",
+      "tsk_work_description": "TILLÄGG KOPPARKABEL 95 TOM 300 mm²",
+      "tsk_construction_stage": "Utanpåliggande kabelförläggning",
+      "tsk_quantity_unit": "m",
+      "tsk_total_quantity": 1.0,
+      "tsk_work_task_duration": 0.02,
+      "tsk_material_number": "",
+      "tsk_material_name": "",
+      "tsk_material_type": "SV-ENR",
+      "tsk_material_amount": 1.0,
+      "tsk_material_user_price": 0.0,
+      "tsk_resource_type": "Electrician",
+      "tsk_comments": []
+    },
+    {
+      "tsk_name": "FXQJ 3X120/70 PÅ STEGE",
+      "tsk_work_type": "SV-ATL",
+      "tsk_work_code": "207518151",
+      "tsk_work_description": "LSP KABLAR STEGE 95-120 KVMM",
+      "tsk_construction_stage": "Utanpåliggande kabelförläggning",
+      "tsk_quantity_unit": "m",
+      "tsk_total_quantity": 1.0,
+      "tsk_work_task_duration": 0.14,
+      "tsk_material_number": "0058830",
+      "tsk_material_name": "FXQJ-EMC PURE 3X120 FV/70",
+      "tsk_material_type": "SV-ENR",
+      "tsk_material_amount": 1.0,
+      "tsk_material_user_price": 1525.0,
+      "tsk_resource_type": "Electrician",
+      "tsk_comments": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "itm_name": "FXQJ 3X16/16 I KABELSKYDDSRÖR",
+  "itm_description": "FXQJ 3X16/16 I KABELSKYDDSRÖR ELLER I BLOCKERAD KANAL.",
+  "itm_image": "images/images_articles/Fkkj4.jpg",
+  "itm_keywords": [
+    "CPR",
+    "FKKJ",
+    "SVART",
+    "HALOGENFRI",
+    "N1XCZ1-R"
+  ],
+  "itm_quantity": 1,
+  "itm_comments": [],
+  "itm_tasks": [
+    {
+      "tsk_name": "FXQJ 3X16/16 I KABELSKYDDSRÖR",
+      "tsk_work_type": "SV-ATL",
+      "tsk_work_code": "207518126",
+      "tsk_work_description": "LSP KABLAR BÄRLINA 10-16 KVMM",
+      "tsk_construction_stage": "Infälld kabelförläggning",
+      "tsk_quantity_unit": "m",
+      "tsk_total_quantity": 1.0,
+      "tsk_work_task_duration": 0.07,
+      "tsk_material_number": "0004340",
+      "tsk_material_name": "FXQJ PURE 3X16/16 1KV",
+      "tsk_material_type": "SV-ENR",
+      "tsk_material_amount": 1.0,
+      "tsk_material_user_price": 265.0,
+      "tsk_resource_type": "Electrician",
+      "tsk_comments": []
+    }
+  ]
+}
