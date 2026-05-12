@@ -1,11 +1,12 @@
 {
-  "itm__name": "EXQJ 3X10/10 PÅ STEGE",
+  "itm_name": "EXQJ 3X10/10 PÅ STEGE",
   "itm_description": "EXQJ 3x10/10 på vertikal eller horisontell kabelstege eller kabelhylla inklusive buntband.",
   "itm_image": "images/images_articles/ekkj3.jpg",
   "itm_keywords": [
     "KABEL",
 	"KOPPAR",
-	"KOPPARKABEL",    "CPR",
+	"KOPPARKABEL",
+    "CPR",
     "EKKJ",
     "SVART",
     "HALOGENFRI",
